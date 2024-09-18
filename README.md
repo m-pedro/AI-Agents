@@ -1,8 +1,7 @@
 # AI-Agents
 **Lablab AI Agents hackathon**
 
-**Aim**
-- Build an agentic workflow for the software development life cycle (SDLC)
+**Aim**: Build an agentic workflow for the software development life cycle (SDLC)
 
 **Approach**
 - Break the workflow into four separate tasks, and use one agent per task
@@ -10,8 +9,7 @@
 - Use colab notebooks for the coding
 - Use other tools as necessary, e.g., agentops, autogen, mindsdb, upstage, composio, etc.
 
-**Tasks**
-Build a PoC in a sandbox (dev) environment
+**Task**: Build a PoC in a sandbox (dev) environment
 
 **Agents**
 - Requirements Agent: Understand requirements from requirements doc
