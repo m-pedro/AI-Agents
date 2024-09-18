@@ -1,8 +1,8 @@
 # AI-Agents
-Lablab AI Agents hackathon
+**Lablab AI Agents hackathon**
 
 **Aim**
-Build an agentic workflow for the software development life cycle (SDLC)
+- Build an agentic workflow for the software development life cycle (SDLC)
 
 **Approach**
 - Break the workflow into four separate tasks, and use one agent per task
