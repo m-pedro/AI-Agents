@@ -28,10 +28,10 @@ a. Requirements Gathering
 b. High-Level System Design
 - Task: Design the architecture of the CRM system
 - Diagrams Generated:
--- Use Case Diagram
--- Class Diagram
--- Entity-Relationship Diagram (ERD)
--- UI Design for Dashboard
+-   Use Case Diagram
+-   Class Diagram
+-   Entity-Relationship Diagram (ERD)
+-   UI Design for Dashboard
 - Outcome: A document detailing the architecture, components, and visual diagrams of the system.
 
 c. Code Generation
@@ -40,9 +40,9 @@ c. Code Generation
 - Outcome: Working code implementing authentication, database operations, and reporting
 
 d. Code Testing
-Task: Run test cases to verify code functionality
-Goal: Ensure the system meets the requirements and works as expected
-Outcome: A detailed test report highlighting results and potential issues
+- Task: Run test cases to verify code functionality
+- Goal: Ensure the system meets the requirements and works as expected
+- Outcome: A detailed test report highlighting results and potential issues
 
 **Workspaces**
 - Our Group: https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/the-synapses
