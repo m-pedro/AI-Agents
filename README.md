@@ -29,9 +29,9 @@ b. High-Level System Design
 - Task: Design the architecture of the CRM system
 - Diagrams Generated:
 -   Use Case Diagram
--   Class Diagram
--   Entity-Relationship Diagram (ERD)
--   UI Design for Dashboard
+    -   Class Diagram
+    -   Entity-Relationship Diagram (ERD)
+    -   UI Design for Dashboard
 - Outcome: A document detailing the architecture, components, and visual diagrams of the system.
 
 c. Code Generation
