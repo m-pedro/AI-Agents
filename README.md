@@ -44,9 +44,7 @@ d. Code Testing
 - Goal: Ensure the system meets the requirements and works as expected
 - Outcome: A detailed test report highlighting results and potential issues
 
-**Workspaces**
-- Our Group: https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/the-synapses
-- Discord: https://discord.com/channels/@me/1284526772720898198
+**Project Page**: https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/the-synapses
 
 **Colab Notebooks**
 - https://colab.research.google.com/drive/1vsYzaJSXERfU-uEXuK2aD4HA9QbEIVUl?usp=sharing
