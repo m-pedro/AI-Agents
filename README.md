@@ -6,8 +6,11 @@ Build an agentic workflow for the software development life cycle (SDLC)
 
 Approach
 Break the workflow into four separate tasks, and use one agent per task
+
 Use crew.ai for the agents and llama 3.1 or Gemma-2-7b for the llms
+
 Use colab notebooks for the coding
+
 Use other tools as necessary, e.g., agentops, autogen, mindsdb, upstage, composio, etc.
 
 Tasks
@@ -23,6 +26,7 @@ Other ideas
 - Agents for MLOps life cycle
 
 Workflow Steps
+
 a. Requirements Gathering
 Task: Extract key requirements from a document.
 Goal: Create a concise summary of the CRM system's required features.
