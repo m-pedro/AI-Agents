@@ -28,7 +28,7 @@ a. Requirements Gathering
 b. High-Level System Design
 - Task: Design the architecture of the CRM system
 - Diagrams Generated:
--   Use Case Diagram
+    -   Use Case Diagram
     -   Class Diagram
     -   Entity-Relationship Diagram (ERD)
     -   UI Design for Dashboard
