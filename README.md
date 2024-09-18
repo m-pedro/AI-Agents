@@ -1,5 +1,5 @@
 # AI-Agents
-**Lablab AI Agents Hackathon, 13-15 Sept, 2024**
+**Lablab AI Agents Hackathon, 13-15th Sept, 2024**
 
 **Aim**: Build an agentic workflow for the software development life cycle (SDLC)
 
