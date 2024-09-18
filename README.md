@@ -55,7 +55,7 @@ d. Code Testing
 - Improvements in Design Diagrams: Explore more AI-driven tools for automated generation of detailed design diagrams
 - Customization: Enable more advanced configurations for tasks such as adding new agents or expanding CRM functionality
 - Agent Testing: Add test, debug and monitoring features to our platform, such as AgentOps.ai
-- Deployment: Plan for deployment of the final CRM system in a production environment
+- Deployment: Plan for deployment of the final PoC in a production environment
 
 **References**
 - Developing a Multi-Agent System with CrewAI, https://lablab.ai/t/crewai-multi-agent-system,
