@@ -21,23 +21,23 @@
 **Workflow Steps**
 
 a. Requirements Gathering
-Task: Extract key requirements from a document
-Goal: Create a concise summary of the CRM system's required features
-Outcome: Defines the project scope (authentication, CRUD operations, task management, reporting)
+- Task: Extract key requirements from a document
+- Goal: Create a concise summary of the CRM system's required features
+- Outcome: Defines the project scope (authentication, CRUD operations, task management, reporting)
 
 b. High-Level System Design
-Task: Design the architecture of the CRM system
-Diagrams Generated:
-Use Case Diagram
-Class Diagram
-Entity-Relationship Diagram (ERD)
-UI Design for Dashboard
-Outcome: A document detailing the architecture, components, and visual diagrams of the system.
+- Task: Design the architecture of the CRM system
+- Diagrams Generated:
+-- Use Case Diagram
+-- Class Diagram
+-- Entity-Relationship Diagram (ERD)
+-- UI Design for Dashboard
+- Outcome: A document detailing the architecture, components, and visual diagrams of the system.
 
 c. Code Generation
-Task: Develop the Code for the system
-Goal: Create functional code that implements core features
-Outcome: Working code implementing authentication, database operations, and reporting
+- Task: Develop the Code for the system
+- Goal: Create functional code that implements core features
+- Outcome: Working code implementing authentication, database operations, and reporting
 
 d. Code Testing
 Task: Run test cases to verify code functionality
@@ -53,10 +53,10 @@ Outcome: A detailed test report highlighting results and potential issues
 - https://colab.research.google.com/drive/1j9OTh4ridFnq6XQReiYcItzG9yi3Ydwh?usp=sharing
 
 **Future Work**
-- Improvements in Design Diagrams: Explore more AI-driven tools for automated generation of detailed design diagrams.
-- Customization: Enable more advanced configurations for tasks such as adding new agents or expanding CRM functionality.
+- Improvements in Design Diagrams: Explore more AI-driven tools for automated generation of detailed design diagrams
+- Customization: Enable more advanced configurations for tasks such as adding new agents or expanding CRM functionality
 - Agent Testing: Add test, debug and monitoring features to our platform, such as AgentOps.ai
-- Deployment: Plan for deployment of the final CRM system in a production environment.
+- Deployment: Plan for deployment of the final CRM system in a production environment
 
 **References**
 - Developing a Multi-Agent System with CrewAI, https://lablab.ai/t/crewai-multi-agent-system,
