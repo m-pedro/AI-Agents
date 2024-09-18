@@ -4,12 +4,11 @@
 **Aim**: Build an agentic workflow for the software development life cycle (SDLC)
 
 **Approach**
+- Build a PoC in a sandbox (dev) environment
 - Break the workflow into four separate tasks, and use one agent per task
 - Use crew.ai for the agents and llama 3.1 or Gemma-2-7b for the llms
 - Use colab notebooks for the coding
 - Use other tools as necessary, e.g., agentops, autogen, mindsdb, upstage, composio, etc.
-
-**Task**: Build a PoC in a sandbox (dev) environment
 
 **Agents**
 - Requirements Agent: Understand requirements from requirements doc
@@ -17,8 +16,7 @@
 - Software Development Agent: Generate codebase to build PoC (small project)
 - Code Test Agent: Generate code tests
 
-**Other ideas**
-- Agents for MLOps life cycle
+**Other ideas**: Agents for MLOps life cycle
 
 **Workflow Steps**
 
