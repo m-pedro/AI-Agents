@@ -20,7 +20,7 @@ Software Development Agent: Generate codebase to build PoC (small project)
 Code Test Agent: Generate code tests
 
 Other ideas
-Agents for MLOps life cycle
+- Agents for MLOps life cycle
 
 Workflow Steps
 a. Requirements Gathering
@@ -48,12 +48,12 @@ Goal: Ensure the system meets the requirements and works as expected.
 Outcome: A detailed test report highlighting results and potential issues.
 
 Workspaces
-Our Group: https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/the-synapses
-Discord: https://discord.com/channels/@me/1284526772720898198
+- Our Group: https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/the-synapses
+- Discord: https://discord.com/channels/@me/1284526772720898198
 
 Colab Notebooks
-https://colab.research.google.com/drive/1vsYzaJSXERfU-uEXuK2aD4HA9QbEIVUl?usp=sharing
-https://colab.research.google.com/drive/1j9OTh4ridFnq6XQReiYcItzG9yi3Ydwh?usp=sharing
+- https://colab.research.google.com/drive/1vsYzaJSXERfU-uEXuK2aD4HA9QbEIVUl?usp=sharing
+- https://colab.research.google.com/drive/1j9OTh4ridFnq6XQReiYcItzG9yi3Ydwh?usp=sharing
 
 Future Work
 - Improvements in Design Diagrams: Explore more AI-driven tools for automated generation of detailed design diagrams.
@@ -62,5 +62,5 @@ Future Work
 - Deployment: Plan for deployment of the final CRM system in a production environment.
 
 References
-Developing a Multi-Agent System with CrewAI, https://lablab.ai/t/crewai-multi-agent-system,
-Mastering AI Agent Management with AgentOps: An In-Depth Guide, https://lablab.ai/t/agentops-tutorial 
+- Developing a Multi-Agent System with CrewAI, https://lablab.ai/t/crewai-multi-agent-system,
+- Mastering AI Agent Management with AgentOps: An In-Depth Guide, https://lablab.ai/t/agentops-tutorial 
