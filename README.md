@@ -1,5 +1,5 @@
 # AI-Agents
-**Lablab AI Agents hackathon**
+**Lablab AI Agents Hackathon**
 
 **Aim**: Build an agentic workflow for the software development life cycle (SDLC)
 
@@ -21,12 +21,12 @@
 **Workflow Steps**
 
 a. Requirements Gathering
-Task: Extract key requirements from a document.
-Goal: Create a concise summary of the CRM system's required features.
-Outcome: Defines the project scope (authentication, CRUD operations, task management, reporting).
+Task: Extract key requirements from a document
+Goal: Create a concise summary of the CRM system's required features
+Outcome: Defines the project scope (authentication, CRUD operations, task management, reporting)
 
 b. High-Level System Design
-Task: Design the architecture of the CRM system.
+Task: Design the architecture of the CRM system
 Diagrams Generated:
 Use Case Diagram
 Class Diagram
@@ -35,14 +35,14 @@ UI Design for Dashboard
 Outcome: A document detailing the architecture, components, and visual diagrams of the system.
 
 c. Code Generation
-Task: Develop the Code for the system.
-Goal: Create functional code that implements core features.
-Outcome: Working code implementing authentication, database operations, and reporting.
+Task: Develop the Code for the system
+Goal: Create functional code that implements core features
+Outcome: Working code implementing authentication, database operations, and reporting
 
 d. Code Testing
-Task: Run test cases to verify code functionality.
-Goal: Ensure the system meets the requirements and works as expected.
-Outcome: A detailed test report highlighting results and potential issues.
+Task: Run test cases to verify code functionality
+Goal: Ensure the system meets the requirements and works as expected
+Outcome: A detailed test report highlighting results and potential issues
 
 **Workspaces**
 - Our Group: https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/the-synapses
