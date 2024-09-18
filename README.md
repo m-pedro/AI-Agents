@@ -14,10 +14,10 @@ Tasks
 Build a PoC in a sandbox (dev) environment
 
 Agents
-Requirements Agent: Understand requirements from requirements doc
-Design Agent: Create high level design doc
-Software Development Agent: Generate codebase to build PoC (small project)
-Code Test Agent: Generate code tests
+- Requirements Agent: Understand requirements from requirements doc
+- Design Agent: Create high level design doc
+- Software Development Agent: Generate codebase to build PoC (small project)
+- Code Test Agent: Generate code tests
 
 Other ideas
 - Agents for MLOps life cycle
