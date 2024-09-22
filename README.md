@@ -23,7 +23,7 @@
 a. Requirements Gathering
 - Task: Extract key requirements from a document
 - Goal: Create a concise summary of the system's required features
-- Outcome: Defines the project scope (e.g., authentication, CRUD operations, task management, reporting)
+- Outcome: Defines the project scope (e.g., authentication, operations, task management, reporting)
 
 b. High-Level System Design
 - Task: Design the architecture of the system
