@@ -22,11 +22,11 @@
 
 a. Requirements Gathering
 - Task: Extract key requirements from a document
-- Goal: Create a concise summary of the CRM system's required features
-- Outcome: Defines the project scope (authentication, CRUD operations, task management, reporting)
+- Goal: Create a concise summary of the system's required features
+- Outcome: Defines the project scope (e.g., authentication, CRUD operations, task management, reporting)
 
 b. High-Level System Design
-- Task: Design the architecture of the CRM system
+- Task: Design the architecture of the system
 - Diagrams Generated:
     -   Use Case Diagram
     -   Class Diagram
