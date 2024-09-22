@@ -53,7 +53,7 @@ d. Code Testing
 
 **Future Work**
 - Improvements in Design Diagrams: Explore more AI-driven tools for automated generation of detailed design diagrams
-- Customization: Enable more advanced configurations for tasks such as adding new agents or expanding CRM functionality
+- Customization: Enable more advanced configurations for tasks such as adding new agents or expanding the functionality
 - Agent Testing: Add test, debug and monitoring features to our platform, such as AgentOps.ai
 - Deployment: Plan for deployment of the final PoC in a production environment
 
