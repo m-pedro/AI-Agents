@@ -11,9 +11,9 @@
 - Use other tools as necessary, e.g., agentops, autogen, mindsdb, upstage, composio, etc.
 
 **Agents**
-- Requirements Agent: Understand requirements from requirements doc
-- Design Agent: Create high level design doc
-- Software Development Agent: Generate codebase to build PoC (small project)
+- Requirements Agent: Understand requirements from a requirements doc
+- Design Agent: Create a high level design doc
+- Software Development Agent: Generate codebase to build a PoC (small project)
 - Code Test Agent: Generate code tests
 
 **Other ideas**: Agents for MLOps life cycle
