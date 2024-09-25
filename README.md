@@ -11,7 +11,7 @@
 - Use other tools as necessary, e.g., agentops, autogen, mindsdb, upstage, langgraph, composio, etc.
 
 **Agents**
-- Requirements Agent: Understand requirements from a requirements doc
+- Requirements Agent: Understand requirements from a given requirements doc
 - Design Agent: Create a high level design doc
 - Software Development Agent: Generate codebase to build a PoC (small project)
 - Code Test Agent: Generate code tests
