@@ -16,14 +16,14 @@
 - Software Development Agent: Generate codebase to build a PoC (small project)
 - Code Test Agent: Generate code tests
 
-**Other ideas**: Agents for MLOps life cycle
+**Other ideas**: Agents for the MLOps life cycle
 
 **Workflow Steps**
 
 a. Requirements Gathering
 - Task: Extract key requirements from a document
 - Goal: Create a concise summary of the system's required features
-- Outcome: Defines the project scope (e.g., authentication, operations, task management, reporting)
+- Outcome: Define the project scope (e.g., authentication, operations, task management, reporting)
 
 b. High-Level System Design
 - Task: Design the architecture of the system
@@ -31,13 +31,13 @@ b. High-Level System Design
     -   Use Case Diagram
     -   Class Diagram
     -   Entity-Relationship Diagram (ERD)
-    -   UI Design for Dashboard
-- Outcome: A document detailing the architecture, components, and visual diagrams of the system.
+    -   UI/UX Design for Dashboard
+- Outcome: A document detailing the description, architecture and components of the system. It will include text and diagrams.
 
 c. Code Generation
 - Task: Develop the Code for the system
 - Goal: Create functional code that implements core features
-- Outcome: Working code implementing authentication, database operations, and reporting
+- Outcome: Working code implementing the basic system including authentication, database operations, and reporting
 
 d. Code Testing
 - Task: Run test cases to verify code functionality
