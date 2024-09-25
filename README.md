@@ -8,7 +8,7 @@
 - Break the workflow into four separate tasks, and use one agent per task
 - Use crew.ai for the agents and llama 3.1 or Gemma-2-7b for the llms
 - Use colab notebooks for the coding
-- Use other tools as necessary, e.g., agentops, autogen, mindsdb, upstage, composio, etc.
+- Use other tools as necessary, e.g., agentops, autogen, mindsdb, upstage, langgraph, composio, etc.
 
 **Agents**
 - Requirements Agent: Understand requirements from a requirements doc
